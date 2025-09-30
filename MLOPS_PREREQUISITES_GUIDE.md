@@ -1,4 +1,4 @@
-# MLOps with Cloud Season 2 - Prerequisites Guide
+# MLOps with Cloud - Prerequisites Guide
 
 A comprehensive step-by-step guide with code examples to prepare for the MLOps course.
 

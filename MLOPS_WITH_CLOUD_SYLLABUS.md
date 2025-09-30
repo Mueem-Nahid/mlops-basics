@@ -1,4 +1,4 @@
-# MLOPS WITH CLOUD SEASON 2 - Course Syllabus
+# MLOPS WITH CLOUD - Course Syllabus
 
 **Course URL:** https://poridhi.io/course-details/689c8df7a1f6c3e5abdfefba
 
